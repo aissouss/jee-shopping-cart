@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 40px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
