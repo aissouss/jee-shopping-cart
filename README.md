@@ -106,7 +106,7 @@ cd jee-shopping-cart-exam
 
 This project was developed as a supervised exam (DS — Devoir Surveillé) on December 16, 2025, during the L3 Software Engineering program.
 
-**Author:** Aissous  
+**Author:** Aissouss  
 [GitHub](https://github.com/aissouss)
 
 ---
